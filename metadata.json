@@ -1,0 +1,5 @@
+{
+  "name": "Virtual EEE Lab Simulator",
+  "description": "An interactive electronics laboratory simulator with real-time circuit simulation, virtual instruments, and BJT experiment modules.",
+  "requestFramePermissions": []
+}
